@@ -1,0 +1,39 @@
+{
+  "lastUpdateTimestamp":"7367367367565673",
+  "cdnContent":[
+    {
+      "contentName":"page-1",
+      "platform":"ios",
+      "is_mobile":"true",
+      "title":"some time",
+      "description":"some description",
+      "contentType":"png",
+      "cdnUrl":"https://raw.githubusercontent.com/javabrown/goweb/master/screen-1-image-1.png"
+    },
+    {
+      "contentName":"page-1",
+      "platform":"ios",
+      "isMobile":"false",
+      "title":"some time",
+      "description":"some description",
+      "contentType":"image or video(.mp4)",
+      "cdnUrl":"http://cdn.com/img2.png"
+    },
+    {
+      "contentName":"page-2",
+      "platform":"ios",
+      "title":"some time",
+      "description":"some description",
+      "contentType":"png",
+      "cdnUrl":"https://raw.githubusercontent.com/javabrown/goweb/master/screen-2-image-1.png"
+    },
+    {
+      "contentName":"page-3",
+      "platform":"ios",
+      "title":"some time",
+      "description":"some description",
+      "contentType":"image or video(.mp4)",
+      "cdnUrl":"http://cdn.com/img.png"
+    }
+  ]
+}
