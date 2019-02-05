@@ -1,0 +1,22 @@
+[  
+   {  
+      "id":1,
+      "name":"screen-img-1",
+      "title":"splas-screen",
+      "description":"image for splas screen",
+      "contentType":"png",
+      "cdnUrl":"https://raw.githubusercontent.com/javabrown/goweb/master/screen-1-image-1.png",
+      "isMobile":"1",
+      "platform":"ios"
+   },
+   {  
+      "id":2,
+      "name":"screen-img-2",
+      "title":"splas-screen",
+      "description":"image for splas screen",
+      "contentType":"png",
+      "cdnUrl":"https://raw.githubusercontent.com/javabrown/goweb/master/screen-2-image-1.png",
+      "isMobile":"0",
+      "platform":"android"
+   }
+]
