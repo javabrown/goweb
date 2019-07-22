@@ -1,0 +1,11 @@
+{  
+   "depositAccount":[  
+      {  
+         "accountType":"CHECKING",
+         "accountStatus":"OPEN",
+         "accountNumber":"459611273456",
+         "routingTransitNumber":"099887712",
+         "accountKey":"838E3D15-033E-48D1-8BFF-5FB36FD0909D"
+      }
+   ]
+}
